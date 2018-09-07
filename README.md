@@ -30,4 +30,4 @@
   }
   
   Then run Exe file or Build code with Python 3.x and SublimeText, Pycharm ,...
-  
+  After  the coded  run succesfully  it will export json file for you that you can use for PPORise bot or for managing . Enjoy !

@@ -25,7 +25,7 @@
   
   "password": "abc",
   
-  "email" : "abc@gmail.com",
+  "email" : "abc",
   
   }
   

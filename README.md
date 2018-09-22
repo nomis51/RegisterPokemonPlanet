@@ -16,7 +16,7 @@
  
  Keep httpproxy , host , port 
  
- port is a number (Ex : "port" : 8080)
+ port is a number (Ex : "port" : 8088)
  
  
  If you dont want to use proxy to register  :
